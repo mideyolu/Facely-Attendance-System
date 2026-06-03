@@ -236,16 +236,16 @@ VITE_API_URL=http://localhost:8000
 
 This project was supported by:
 
-- **:contentReference[oaicite:0]{index=0} (NCAIR)**  
-- Under **:contentReference[oaicite:1]{index=1} (NITDA)**  
-
+- **(NCAIR)**  
+- Under **:(NITDA)**
+- 
 ### Facilitators
 
-| Role | Name |
-|------|------|
-‎| **Lead Facilitator**      | **Shaddai Adeniran**| 
-‎| **Supporting Facilitator**| **Stephen Ayuba**| ‎
-| **Supporting Facilitator**| **Rizama Victor**|
+| Role                   | Name                |
+|------------------------|---------------------|
+| **Lead Facilitator**   | **Shaddai Adeniran** |
+| **Supporting Facilitator** | **Stephen Ayuba**    |
+| **Supporting Facilitator** | **Rizama Victor**   |
 
 ---
 
