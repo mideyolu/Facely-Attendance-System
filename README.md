@@ -243,9 +243,9 @@ This project was supported by:
 
 | Role | Name |
 |------|------|
-| Lead Facilitator | **:contentReference[oaicite:2]{index=2}** |
-| Supporting Facilitator | **:contentReference[oaicite:3]{index=3}** |
-| Supporting Facilitator | **:contentReference[oaicite:4]{index=4}** |
+‎| **Lead Facilitator**      | **Shaddai Adeniran**| 
+‎| **Supporting Facilitator**| **Stephen Ayuba**| ‎
+| **Supporting Facilitator**| **Rizama Victor**|
 
 ---
 
